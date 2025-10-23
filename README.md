@@ -1,3 +1,5 @@
 # decision-support-system-dss
 
 This project implements a Decision Support System using Access for database management and Excel for data analysis, visualization, and forecasting. It models decision-making processes and provides actionable insights through pivot tables, dashboards, and microeconomic indicators.
+
+Note: Project documentation is written in Romanian.
